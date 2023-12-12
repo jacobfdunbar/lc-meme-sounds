@@ -1,0 +1,9 @@
+{
+    "name": "Meme_Sounds_Mod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/jacobfdunbar/lc-meme-sounds",
+    "description": "Adds some funny sounds to certain death or damage triggers.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
